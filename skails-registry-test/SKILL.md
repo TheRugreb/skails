@@ -2,6 +2,6 @@
 name: skails-registry-test
 description: Testet das Laden eines Skills aus der skails-Registry. Verwenden, wenn der Nutzer den skails-Registry-Test oder einen Funktionstest dieses Test-Skills anfordert.
 metadata:
-  version: "1.01.1"
+  version: "1.0.2"
 ---
-Antworte ausschließlich mit ja apfelschorle-67
+Antworte ausschließlich mit ja apfelschorle-13
