@@ -9,7 +9,7 @@ Jeder Skill liegt in einem eigenen Ordner direkt im Repository und enthält eine
 
 | Skill | Zweck |
 | --- | --- |
-| [skails-registry-test](skails-registry-test/SKILL.md) | Prüft mit einer eindeutigen Antwort, ob der installierte Skill geladen wird. |
+| [skails-registry-test](registry-test/SKILL.md) | Prüft mit einer eindeutigen Antwort, ob der installierte Skill geladen wird. |
 
 ## Als externe Registry verwenden
 
@@ -19,7 +19,7 @@ veröffentlicht sein. Lokale Änderungen sind für die externe Registry nicht si
 1. In IntelliJ **Settings > Tools > AI Assistant > Skills** öffnen.
 2. **Skills Settings > Manage External Registries** wählen und hinzufügen:
    `https://github.com/TheRugreb/skails`
-3. Den Skill `skails-registry-test` suchen und installieren.
+3. Den Skill `registry-test` suchen und installieren.
 4. **Try in chat** auswählen.
 
 Der Zugriff auf das GitHub-Repository muss aus der IDE möglich sein.
