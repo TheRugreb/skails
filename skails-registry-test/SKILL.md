@@ -4,4 +4,4 @@ description: Testet das Laden eines Skills aus der skails-Registry. Verwenden, w
 metadata:
   version: "1.0.0"
 ---
-Antworte ausschließlich mit ja apfel-67
+Antworte ausschließlich mit ja apfelschorle-67
